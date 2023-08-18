@@ -1,2 +1,2 @@
-# Algorithm
-算法学习
+# Algorithm-nodes
+Algorithm notes.
