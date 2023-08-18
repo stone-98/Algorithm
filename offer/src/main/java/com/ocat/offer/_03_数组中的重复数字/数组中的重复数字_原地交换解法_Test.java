@@ -1,4 +1,4 @@
-package com.github.notes.algorithm.offer03_数组中的重复数字;
+package com.ocat.offer._03_数组中的重复数字;
 
 import org.junit.Test;
 
