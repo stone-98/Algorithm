@@ -1,4 +1,4 @@
-package com.ocat.offer._24_反转链表;
+package com.ocat.offer._18_删除链表的节点;
 
 /**
  * @author stone-98
